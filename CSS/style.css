@@ -1,0 +1,30 @@
+#principal{
+    width: 1200px;
+}
+#menu{
+    background-color: #c5c5b2;
+    padding: 30px 10px;
+}
+.back{
+    background-image: url('AnnABella/images/fundo.png');
+    background-repeat: repeat;
+    background-color: #d2d2c1;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+.infos{
+    background-color: beige;
+    padding: 10px 10px 10px 10px;
+}
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
+h2{
+    color: #757568;
+}
+a{
+    font-size: 20px;
+    font-weight: bold;
+    color: darkblue;
+    text-decoration: none;
+    padding: 5px;
+}
